@@ -1,6 +1,6 @@
 {
     "name": "com.matsumoto.template",
-    "version": "",
+    "version": "0.0.1",
     "displayName": "Package Example",
     "description": "This is an example package",
     "unity": "2021.3",
