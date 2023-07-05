@@ -1,11 +1,13 @@
 {
-    "name": "Matsumoto.Template.Runtime",
+    "name": "Matsumoto.Package.Example.Tests.Editor",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
